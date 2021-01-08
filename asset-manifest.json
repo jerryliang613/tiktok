@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tiktok/static/css/main.5bdfc695.chunk.css",
-    "main.js": "/tiktok/static/js/main.f3826fce.chunk.js",
-    "main.js.map": "/tiktok/static/js/main.f3826fce.chunk.js.map",
+    "main.js": "/tiktok/static/js/main.cc53d4cc.chunk.js",
+    "main.js.map": "/tiktok/static/js/main.cc53d4cc.chunk.js.map",
     "runtime-main.js": "/tiktok/static/js/runtime-main.cb85f87e.js",
     "runtime-main.js.map": "/tiktok/static/js/runtime-main.cb85f87e.js.map",
     "static/js/2.aad81fb5.chunk.js": "/tiktok/static/js/2.aad81fb5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cb85f87e.js",
     "static/js/2.aad81fb5.chunk.js",
     "static/css/main.5bdfc695.chunk.css",
-    "static/js/main.f3826fce.chunk.js"
+    "static/js/main.cc53d4cc.chunk.js"
   ]
 }

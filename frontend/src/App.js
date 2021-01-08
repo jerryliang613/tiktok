@@ -19,7 +19,9 @@ function App() {
       return response;
     };
     try {
-      fetchPosts();
+      setTimeout(() => {
+        fetchPosts();
+      }, 3000);
     } catch {
       setVideos({
         ...videos, loading: false

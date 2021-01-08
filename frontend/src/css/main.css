@@ -123,6 +123,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 
+.loading {
+  height: 100vh;
+  background-color: black;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
 .app {
   height: 100vh;
   background-color: black;

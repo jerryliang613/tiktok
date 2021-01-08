@@ -1,0 +1,14 @@
+.videosidebar{
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    color: white;
+
+    &_button{
+        padding-bottom: 20px;
+        text-align: center;
+        &:hover{
+            cursor: pointer;
+        }
+    }
+}

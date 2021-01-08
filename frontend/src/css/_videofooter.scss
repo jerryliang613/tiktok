@@ -1,0 +1,41 @@
+.videofooter{
+    position: relative;
+    color: white;
+    bottom: 150px;
+    padding-left: 20px;
+    padding-right: 10px;
+    display: flex;
+
+    &_ticker{
+        display: flex;
+        .iconwrapper{
+            flex: 1;
+        }
+        .tickerwrapper{
+            flex: 8;
+
+         }
+        .imgwrapper{
+            flex: 1;
+            .videofooter_record{
+                filter: invert(1);
+                animation: spin 2s linear infinite;
+                @keyframes spin {
+                            0% { transform: rotate(0deg); }
+                            100% { transform: rotate(360deg); }
+                                }
+            }
+        }
+    }
+
+    // &_record{
+    //     width: 20px;
+    // }
+
+    &_text{
+        flex: 1;
+        p, h3{
+            padding-bottom: 20px;
+        }
+    }
+}
